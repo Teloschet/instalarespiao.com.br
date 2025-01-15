@@ -1,0 +1,14 @@
+{
+  "HomePage": {
+    "click": "Escolha o nome do app",
+    "button_field": "Começar agora!",
+    "difficulties": "Caso tenha alguma dificuldade ou problema com a instalação, entre em contato conosco.",
+    "gallery": "Galeria",
+    "android": "Android",
+    "dadosmoveis": "Dados Móveis",
+    "ajustes": "Ajustes",
+    "atts": "Atualizações Do Sistema",
+    "arquivos": "Arquivos",
+    "wifi": "WiFi"
+  }
+}

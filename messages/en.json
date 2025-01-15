@@ -1,0 +1,14 @@
+{
+  "HomePage": {
+    "click": "Click here to start",
+    "button_field": "Start now!",
+    "difficulties": "If you have any difficulties or problems with the installation, please contact us.",
+    "gallery": "Gallery",
+    "android": "Android",
+    "dadosmoveis": "Cellular Data",
+    "ajustes": "Settings",
+    "atts": "System Updates",
+    "arquivos": "Files",
+    "wifi": "WiFi"
+  }
+}

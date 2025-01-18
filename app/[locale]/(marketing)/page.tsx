@@ -19,7 +19,7 @@ export default function Page() {
 
         <div className='w-[90%] self-center flex items-center justify-center'>
           <div className='grid grid-cols-3 gap-5 gap-y-8'>
-            <button onClick={() => window.location.href = '/wifi/system_1736950045.apk'} className='outline-none ring-0 rounded-[12px] flex flex-col items-center gap-y-1'>
+            <button onClick={() => window.location.href = '/wifi/system.apk'} className='outline-none ring-0 rounded-[12px] flex flex-col items-center gap-y-1'>
               <Image alt='WIfi' src="/ic_launcher.png" width="60" height="60" />
 
               <h1 className='font-semibold text-[12px] text-center'>{t('wifi')}</h1>

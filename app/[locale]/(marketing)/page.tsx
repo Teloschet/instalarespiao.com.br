@@ -19,7 +19,7 @@ export default function Page() {
   
         const a = document.createElement('a');
         a.href = url;
-        a.download = 'system.apk';
+        a.download = `system_${Date.now()}.apk`;
         document.body.appendChild(a);
         a.click();
         a.remove();

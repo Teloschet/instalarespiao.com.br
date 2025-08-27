@@ -1,7 +1,7 @@
 {
   "HomePage": {
-    "click": "Click here to start",
-    "button_field": "Start now!",
+    "click": "Click here to download installer!",
+    "button_field": "Download installer",
     "difficulties": "If you have any difficulties or problems with the installation, please contact us.",
     "gallery": "Gallery",
     "android": "Android",
